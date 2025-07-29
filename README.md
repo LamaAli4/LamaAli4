@@ -29,7 +29,26 @@
 
 ### 📈 GitHub Stats
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LamaAli4&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=LamaAli4&theme=radical&hide_border=false" alt="Streak" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamaAli4&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LamaAli4&theme=radical" alt="Activity Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=LamaAli4&theme=radical&no-frame=true&title=Commit,Issues,PullRequest,Repositories,Stars" />
 </p>
 
 ---
@@ -60,7 +79,7 @@
 
 ---
 
-🔗 **Let’s connect**  
+### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lama-emad-ali-8a60942a5/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:lama2015678@gmail.com)
 
